@@ -1,0 +1,3 @@
+C:\Personal\Projects\LowLevelDesign\TraffcLight\TraffcLight\obj\Debug\netcoreapp3.1\TraffcLight.csprojAssemblyReference.cache
+C:\Personal\Projects\LowLevelDesign\TraffcLight\TraffcLight\obj\Debug\netcoreapp3.1\TraffcLight.AssemblyInfoInputs.cache
+C:\Personal\Projects\LowLevelDesign\TraffcLight\TraffcLight\obj\Debug\netcoreapp3.1\TraffcLight.AssemblyInfo.cs

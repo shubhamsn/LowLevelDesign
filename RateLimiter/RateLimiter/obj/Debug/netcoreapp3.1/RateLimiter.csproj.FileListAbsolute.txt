@@ -1,0 +1,11 @@
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\bin\Debug\netcoreapp3.1\RateLimiter.exe
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\bin\Debug\netcoreapp3.1\RateLimiter.deps.json
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\bin\Debug\netcoreapp3.1\RateLimiter.runtimeconfig.json
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\bin\Debug\netcoreapp3.1\RateLimiter.runtimeconfig.dev.json
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\bin\Debug\netcoreapp3.1\RateLimiter.dll
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\bin\Debug\netcoreapp3.1\RateLimiter.pdb
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\obj\Debug\netcoreapp3.1\RateLimiter.csprojAssemblyReference.cache
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\obj\Debug\netcoreapp3.1\RateLimiter.AssemblyInfoInputs.cache
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\obj\Debug\netcoreapp3.1\RateLimiter.AssemblyInfo.cs
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\obj\Debug\netcoreapp3.1\RateLimiter.dll
+C:\Personal\Projects\RateLimiter\RateLimiter\RateLimiter\obj\Debug\netcoreapp3.1\RateLimiter.pdb
